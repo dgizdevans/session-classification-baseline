@@ -1,7 +1,5 @@
 # session-classification-baseline
 
-# session-classification-baseline
-
 **Baseline experiments for early session type classification using GA4 event data.**
 
 This repository contains the code and documentation for Experiment 1 of a research project on prefix-based session classification. The goal is to establish a reliable baseline using only minimal sequential input (`event_name`) before moving to richer feature representations and more complex models.
